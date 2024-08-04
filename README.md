@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Collin Austin
+- 👀 I'm interested in the Rust programming language
+- 🌱 I'm currently learning the Rust technology stack
+- 💞️ I'm looking to collaborate on discussing and exploring the Rust learning journey
